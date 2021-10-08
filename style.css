@@ -1,0 +1,33 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+}
+.note
+{
+    font-size: 15px;
+    color: greenyellow;
+}
+.pr
+{
+   position: fixed; 
+   color: lawngreen;
+   bottom: 0px;
+   width: 100%;
+   background-color: navy;
+   line-height: 10px;
+   text-align: center;
+}
+canvas
+{
+    border: 5px solid;
+    color: red;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+#in
+{
+    color: blue;
+}
